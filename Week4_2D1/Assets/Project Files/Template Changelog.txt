@@ -1,0 +1,38 @@
+v1.4.1
+Core: Updated to v2.7.3
+
+v1.4.0
+Template: Added Unity 6 support
+Template: Added Settings panel
+Template: Added support for the fast launch feature (enter play mode without recompiling)
+Template: Added new Haptic system
+Defines: Fixed an issue with defines recalculation during the first import
+Defines: Reworked the define disable check. Instead of checking the file path, the system now verifies if the script type exists
+Core: Fixed Promotion window image size on 4k displays
+Core: Added the StaticUnloader script. It allows unloading static variables to support fast game launches (Editor only)
+Tween: Reworked the Tween script structure
+Tween: Added static unload functionality for Tween
+Tween: Reworked NextFrame tween logic
+Save: Removed unused variable
+Core: The script names have been changed to use singular instead of plural (e.g., CurrenciesController is now CurrencyController)
+Currency: Reworked CurrencyController.GetCurrency method (editor only)
+Monetization: A full-screen loading message has been added before displaying interstitial and rewarded video ads
+
+v1.3.3
+Watermelon Core update
+
+v1.3.0
+Unity 2022 support
+Core update
+
+v1.2.2
+Unity 2021 support
+Core update
+URP support
+
+v1.1
+Core update
+Bug fixes
+
+v1.0
+Release

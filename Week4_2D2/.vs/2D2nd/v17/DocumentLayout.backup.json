@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|c:\\users\\song\\documents\\box\\unity\\2d2nd\\assets\\images\\stage\\item\\itempower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\stage\\item\\itempower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\assets\\images\\bg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\bg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\assets\\images\\pl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\pl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|c:\\users\\song\\documents\\box\\unity\\2d2nd\\assets\\images\\test\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBCB2F9-3363-8768-08D8-0409A8B70511}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\test\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BG.cs",
+              "DocumentMoniker": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\BG.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\BG.cs",
+              "ToolTip": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\BG.cs",
+              "RelativeToolTip": "Assets\\Images\\BG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:14:00.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemPower.cs",
+              "DocumentMoniker": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\Stage\\Item\\ItemPower.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\Stage\\Item\\ItemPower.cs",
+              "ToolTip": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\Stage\\Item\\ItemPower.cs",
+              "RelativeToolTip": "Assets\\Images\\Stage\\Item\\ItemPower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:55:58.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\test\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\test\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\test\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Images\\test\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:32:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pl.cs",
+              "DocumentMoniker": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\Pl.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\Pl.cs",
+              "ToolTip": "C:\\Users\\SONG\\Documents\\BOX\\Unity\\2D2nd\\Assets\\Images\\Pl.cs",
+              "RelativeToolTip": "Assets\\Images\\Pl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:12:45.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

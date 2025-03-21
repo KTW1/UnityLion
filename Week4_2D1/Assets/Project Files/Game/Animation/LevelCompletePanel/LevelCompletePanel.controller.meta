@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f2becf8d1b81f54f82bce871a8f10ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151733
+  packageName: Jelly Merge | Template + Editor
+  packageVersion: 1.4.1
+  assetPath: Assets/Project Files/Game/Animation/LevelCompletePanel/LevelCompletePanel.controller
+  uploadId: 730034
