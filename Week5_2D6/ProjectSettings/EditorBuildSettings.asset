@@ -6,16 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Minesweeper/Scenes/Menu.unity
-    guid: 8a729fa0539419c419aed93c85ea7d08
+    path: Assets/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Minesweeper/Scenes/Game Easy.unity
-    guid: bb1b1035ba5464a44b622ea278572082
-  - enabled: 1
-    path: Assets/Minesweeper/Scenes/Game Hard.unity
-    guid: aaea45d78a105f74ca1f368ce58bc272
-  - enabled: 1
-    path: Assets/Minesweeper/Scenes/Game Medium.unity
-    guid: ed095859b7331b3489110e291a056678
+    path: Assets/boss.unity
+    guid: e8e1bc4d8e4892c469b0f988cbc5a235
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
