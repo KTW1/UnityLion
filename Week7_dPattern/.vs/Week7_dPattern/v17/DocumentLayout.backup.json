@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SONG\\Documents\\BOX\\Week7_dPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E533774-F42D-66E9-EE02-18D89C1DB580}|Assembly-CSharp.csproj|c:\\users\\song\\documents\\box\\week7_dpattern\\assets\\1.\uC2F1\uAE00\uD1A4\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E533774-F42D-66E9-EE02-18D89C1DB580}|Assembly-CSharp.csproj|solutionrelative:assets\\1.\uC2F1\uAE00\uD1A4\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E533774-F42D-66E9-EE02-18D89C1DB580}|Assembly-CSharp.csproj|c:\\users\\song\\documents\\box\\week7_dpattern\\assets\\1.\uC2F1\uAE00\uD1A4\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E533774-F42D-66E9-EE02-18D89C1DB580}|Assembly-CSharp.csproj|solutionrelative:assets\\1.\uC2F1\uAE00\uD1A4\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\SONG\\Documents\\BOX\\Week7_dPattern\\Assets\\1.\uC2F1\uAE00\uD1A4\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.\uC2F1\uAE00\uD1A4\\GameManager.cs",
+              "ToolTip": "C:\\Users\\SONG\\Documents\\BOX\\Week7_dPattern\\Assets\\1.\uC2F1\uAE00\uD1A4\\GameManager.cs*",
+              "RelativeToolTip": "Assets\\1.\uC2F1\uAE00\uD1A4\\GameManager.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:24:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\SONG\\Documents\\BOX\\Week7_dPattern\\Assets\\1.\uC2F1\uAE00\uD1A4\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\1.\uC2F1\uAE00\uD1A4\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\SONG\\Documents\\BOX\\Week7_dPattern\\Assets\\1.\uC2F1\uAE00\uD1A4\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\1.\uC2F1\uAE00\uD1A4\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:26:17.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
