@@ -1,0 +1,51 @@
+using UnityEngine;
+
+public class PlayerBlackholeState : PlayerState
+{
+    private float flyTime = 0.4f;
+    private bool skillUsed;
+
+    public PlayerBlackholeState(Player _player, PlayerStateMachine _stateMachine, string _animBoolName) : base(_player, _stateMachine, _animBoolName)
+    {
+
+    }
+
+    public override void AnimationFinishTrigger()
+    {
+        base.AnimationFinishTrigger();
+    }
+
+    public override void Enter()
+    {
+        base.Enter();
+
+        skillUsed = false;
+        stateTimer = flyTime;
+        rb.gravityScale = 0;
+    }
+
+    public override void Exit()
+    {
+        base.Exit();
+    }
+
+    public override void Update()
+    {
+        base.Update();
+
+        if (stateTimer > 0)
+            rb.linearVelocity = new Vector2(0, 15);
+
+        if (stateTimer < 0)
+        {
+            rb.linearVelocity = new Vector2(0, -0.1f);
+
+            if (!skillUsed)
+            {
+                if (player.skill.blackhole.CanUseSkill())
+                    skillUsed = true;
+            }
+        }
+
+    }
+}
